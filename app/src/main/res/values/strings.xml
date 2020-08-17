@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Quiz Application</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="guess_the_city_in_the_image_above">Guess the city in the image above</string>
+    <string name="new_york">New York</string>
+    <string name="toronto">Toronto</string>
+    <string name="dubai">Dubai</string>
+    <string name="guess_the_image">Guess the image...</string>
+    <string name="quiz">QUIZ</string>
+</resources>
